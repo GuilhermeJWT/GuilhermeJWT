@@ -18,6 +18,7 @@
 <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" style="max-width:100%;"></img>
 <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="max-width:100%;"></img>
 <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" style="max-width:100%;"></img>
+<img align="center" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="max-width:100%;"></img>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeJWT)](https://github.com/GuilhermeJWT/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeJWT)](https://github.com/GuilhermeJWT/github-readme-stats)
