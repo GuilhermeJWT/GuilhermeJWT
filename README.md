@@ -1,6 +1,6 @@
 ### Olá Programador👋
 
- Sou um entusiasta em todo Ecossistema Java (JavaEE, Spring), procuro sempre me especializar na parte de Back-End, porém já desenvolvi várias aplicações (Desktop, Microsserviços e Aplicações Web) que é meu foco nos últimos 4 anos.
+ Sou um entusiasta em todo Ecossistema Java (JavaEE, Spring), procuro sempre me especializar na parte de Back-End, porém já desenvolvi várias aplicações (Desktop, Microservices e Aplicações Web) que é meu foco nos últimos 4 anos.
 
 
 ## Perfil
