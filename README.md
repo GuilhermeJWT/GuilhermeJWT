@@ -1,8 +1,8 @@
-<p align="left">Principais Tecnologias e Ferramentas:</p>
+<p align="center">Principais Tecnologias e Ferramentas:</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeJWT&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false&order=2" height="165" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeJWT&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=GuilhermeJWT&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=GuilhermeJWT&theme=dracula&column=5&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeJWT&radius=16&theme=react&area=false&order=5" height="330" alt="activity-graph graph"  />
