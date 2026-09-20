@@ -40,8 +40,4 @@ Desenvolvedor com uma vasta experiência em criação de Sistemas Desktop e Web,
   <img src="https://streak-stats.demolab.com?user=GuilhermeJWT&theme=dracula" height="180" alt="streak graph"  />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GuilhermeJWT/GuilhermeJWT/output/github-contribution-grid-snake.svg" alt="snake animation"  />
-</div>
-
 ###
