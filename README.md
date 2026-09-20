@@ -36,8 +36,12 @@ Desenvolvedor com uma vasta experiência em criação de Sistemas Desktop e Web,
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=GuilhermeJWT&theme=dracula&column=5&row=1&margin-w=9&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeJWT&radius=16&theme=react&area=false&order=5" height="330" alt="activity-graph graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeJWT&theme=dracula" height="180" alt="profile details graph"  />
+  <img src="https://streak-stats.demolab.com?user=GuilhermeJWT&theme=dracula" height="180" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GuilhermeJWT/GuilhermeJWT/output/github-contribution-grid-snake.svg" alt="snake animation"  />
 </div>
 
 ###
